@@ -12,6 +12,7 @@ Clone este repositório e instale as dependências do projeto via pip.
 Guarde suas chaves e variáveis sensíveis em arquivos `.env` ou `API Key.txt`, conforme necessário.
 
 git clone https://github.com/ccontipe/VoxLog.git
+
 cd VoxLog
 pip install -r requirements.txt
 
