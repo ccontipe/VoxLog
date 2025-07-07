@@ -1,3 +1,7 @@
+# Copyright (c) 2025 Cesar Contipelli Neto
+# Todos os direitos reservados.
+# Proibida a modificação e distribuição sem autorização do autor.
+
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import os

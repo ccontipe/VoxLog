@@ -1,3 +1,7 @@
+# Copyright (c) 2025 Cesar Contipelli Neto
+# Todos os direitos reservados.
+# Proibida a modificação e distribuição sem autorização do autor.
+
 import logging
 from tkinter import messagebox
 import google.generativeai as genai # Importar diretamente

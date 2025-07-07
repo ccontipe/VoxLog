@@ -1,0 +1,10 @@
+google-generativeai
+faster-whisper
+torch
+python-dotenv
+docx
+mammoth
+textract
+pdfplumber
+PyPDF2
+beautifulsoup4

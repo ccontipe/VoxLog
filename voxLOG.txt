@@ -1,0 +1,250 @@
+2025-07-07 17:16:42,250 - INFO - MainThread - API Key do Gemini carregada com sucesso de variável de ambiente ou .env.
+2025-07-07 17:16:42,250 - INFO - MainThread - Tentando instalar o pacote: python-docx
+2025-07-07 17:16:42,262 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'python-docx': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:01,156 - INFO - MainThread - API Key do Gemini carregada com sucesso de variável de ambiente ou .env.
+2025-07-07 17:19:01,156 - INFO - MainThread - Tentando instalar o pacote: python-docx
+2025-07-07 17:19:01,168 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'python-docx': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:04,278 - INFO - MainThread - Tentando instalar o pacote: mammoth
+2025-07-07 17:19:04,288 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'mammoth': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:05,520 - INFO - MainThread - Tentando instalar o pacote: extract-msg
+2025-07-07 17:19:05,528 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'extract-msg': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:06,138 - INFO - MainThread - Tentando instalar o pacote: pdfplumber
+2025-07-07 17:19:06,148 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'pdfplumber': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:06,748 - INFO - MainThread - Tentando instalar o pacote: PyPDF2
+2025-07-07 17:19:06,768 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'PyPDF2': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:07,350 - INFO - MainThread - Tentando instalar o pacote: beautifulsoup4
+2025-07-07 17:19:07,368 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'beautifulsoup4': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:15,921 - INFO - MainThread - API Key do Gemini carregada com sucesso de variável de ambiente ou .env.
+2025-07-07 17:19:15,921 - INFO - MainThread - Tentando instalar o pacote: python-docx
+2025-07-07 17:19:15,925 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'python-docx': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:18,753 - INFO - MainThread - Tentando instalar o pacote: mammoth
+2025-07-07 17:19:18,763 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'mammoth': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:19,462 - INFO - MainThread - Tentando instalar o pacote: extract-msg
+2025-07-07 17:19:19,473 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'extract-msg': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:20,203 - INFO - MainThread - Tentando instalar o pacote: pdfplumber
+2025-07-07 17:19:20,223 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'pdfplumber': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:20,864 - INFO - MainThread - Tentando instalar o pacote: PyPDF2
+2025-07-07 17:19:20,880 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'PyPDF2': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2025-07-07 17:19:21,453 - INFO - MainThread - Tentando instalar o pacote: beautifulsoup4
+2025-07-07 17:19:21,463 - CRITICAL - MainThread - Ocorreu uma exceção crítica ao instalar 'beautifulsoup4': [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\cesar\Documents\Projetos\Python\5. VoxLog\SourceNew\utils_instalador.py", line 12, in instalar_pacote
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package, "--user"], timeout=180)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 408, in check_call
+    retcode = call(*popenargs, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 389, in call
+    with Popen(*popenargs, **kwargs) as p:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pdoc\extract.py", line 193, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\cesar\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado

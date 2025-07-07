@@ -1,3 +1,7 @@
+# Copyright (c) 2025 Cesar Contipelli Neto
+# Todos os direitos reservados.
+# Proibida a modificação e distribuição sem autorização do autor.
+
 def listar_modelos(api_key):
     import google.generativeai as genai
     genai.configure(api_key=api_key)
