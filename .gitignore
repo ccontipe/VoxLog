@@ -1,1 +1,63 @@
-Output/ 
+# Byte-compiled / cache / temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Histórico e versões antigas
+history/
+Output/
+*.log
+
+# Virtual environment
+venv/
+.env/
+.env
+
+# Editor/IDE files
+.vscode/
+*.swp
+*.swo
+*.bak
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output e diretórios de histórico (caso queira ignorar)
+Output/
+history/
+
+# Arquivos de configuração e segredos
+*.env
+API Key.txt
+
+# Arquivos de teste com secrets
+test_gemini.py
+APIKeyTest.py
+
+# Testes/Arquivos temporários
+*.tmp
+
+# Arquivos de documentação gerada
+docs/
+
+# Arquivos/diretórios de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos/pastas do Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.bak
+*.backup
+
+# Outros arquivos sensíveis ou desnecessários
+voxLOG.txt
+validarLog.txt
