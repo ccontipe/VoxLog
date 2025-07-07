@@ -1,0 +1,58 @@
+2025-07-05 20:01:20,208 - INFO - Log configurado.
+2025-07-05 20:01:20,208 - INFO - Aplicação iniciada.
+2025-07-05 20:01:26,175 - WARNING - Seleção da pasta dos arquivos .tf foi cancelada pelo usuário.
+2025-07-05 20:01:35,057 - INFO - Fechamento da aplicação solicitado pelo usuário.
+2025-07-05 20:01:35,057 - INFO - Variáveis de memória e referências de arquivos limpas.
+2025-07-05 20:04:11,448 - INFO - Log configurado.
+2025-07-05 20:04:11,448 - INFO - Aplicação iniciada.
+2025-07-05 20:04:19,277 - INFO - 5 arquivos .tf encontrados.
+2025-07-05 20:04:19,277 - INFO - Pasta de arquivos .tf selecionada: C:/Users/cesar/Documents/Projetos/Python/5. VoxLog/SourceNew/Output/AWS/Terraform_AWS_Transcrição Áudio Tokenizacao - Portal SVMP 20250705194039
+2025-07-05 20:04:31,021 - INFO - Arquivo de referência selecionado: C:/Users/cesar/Documents/Projetos/Python/5. VoxLog/SourceNew/Output/AWS/GEM - Solucao Tecnica (AWS) Transcrição Áudio Tokenizacao - Portal SVMP 20250705194039.txt
+2025-07-05 20:04:44,210 - INFO - Cloud selecionada: GCP
+2025-07-05 20:04:47,206 - INFO - Cloud selecionada: AWS
+2025-07-05 20:04:47,206 - INFO - Interface pronta para validação.
+2025-07-05 20:05:24,610 - INFO - Validação iniciada para cloud: AWS.
+2025-07-05 20:05:24,610 - INFO - Iniciando parsing/validação dos arquivos .tf...
+2025-07-05 20:05:24,610 - INFO - [TerraformGen] Iniciando pipeline de artefatos Terraform...
+2025-07-05 20:05:24,610 - WARNING - [TerraformGen] Nenhum bloco Terraform encontrado na saída da GEM.
+2025-07-05 20:05:24,610 - INFO - Iniciando refinamento dos arquivos para: AWS
+2025-07-05 20:05:24,626 - INFO - Refino AWS (não-destrutivo) concluído. Relatório salvo.
+2025-07-05 20:05:24,626 - INFO - Validação/refino concluído para cloud: AWS.
+2025-07-05 20:05:26,446 - INFO - Variáveis de memória e referências de arquivos limpas.
+2025-07-05 20:10:08,017 - INFO - Fechamento da aplicação solicitado pelo usuário.
+2025-07-05 20:10:08,017 - INFO - Variáveis de memória e referências de arquivos limpas.
+2025-07-05 20:10:34,836 - INFO - Log configurado.
+2025-07-05 20:10:34,836 - INFO - Aplicação iniciada.
+2025-07-05 20:11:55,428 - INFO - Fechamento da aplicação solicitado pelo usuário.
+2025-07-05 20:11:55,430 - INFO - Variáveis de memória e referências de arquivos limpas.
+2025-07-05 20:12:33,226 - INFO - Log configurado.
+2025-07-05 20:12:33,226 - INFO - Aplicação iniciada.
+2025-07-05 20:12:43,038 - INFO - Fechamento da aplicação solicitado pelo usuário.
+2025-07-05 20:12:43,046 - INFO - Variáveis de memória e referências de arquivos limpas.
+2025-07-05 20:14:03,597 - INFO - Log configurado.
+2025-07-05 20:14:03,597 - INFO - Aplicação iniciada.
+2025-07-05 20:14:28,947 - INFO - Fechamento da aplicação solicitado pelo usuário.
+2025-07-05 20:14:28,947 - INFO - Variáveis de memória e referências de arquivos limpas.
+2025-07-05 20:14:34,137 - INFO - Log configurado.
+2025-07-05 20:14:34,137 - INFO - Aplicação iniciada.
+2025-07-05 20:14:41,777 - INFO - 6 arquivos .tf encontrados.
+2025-07-05 20:14:41,777 - INFO - Pasta de arquivos .tf selecionada: C:/Users/cesar/Documents/Projetos/Python/5. VoxLog/SourceNew/Output/AWS/Terraform_AWS_Transcrição Áudio Tokenizacao - Portal SVMP 20250705194039
+2025-07-05 20:14:49,734 - INFO - Arquivo de referência selecionado: C:/Users/cesar/Documents/Projetos/Python/5. VoxLog/SourceNew/Output/AWS/GEM - Solucao Tecnica (AWS) Transcrição Áudio Tokenizacao - Portal SVMP 20250705194039.txt
+2025-07-05 20:14:55,349 - INFO - Cloud selecionada: AWS
+2025-07-05 20:14:55,349 - INFO - Interface pronta para validação.
+2025-07-05 20:14:57,767 - INFO - Validação iniciada para cloud: AWS.
+2025-07-05 20:14:57,767 - INFO - Iniciando parsing/validação dos arquivos .tf...
+2025-07-05 20:14:57,767 - INFO - [TerraformGen] Iniciando pipeline de artefatos Terraform...
+2025-07-05 20:14:57,767 - WARNING - [TerraformGen] Nenhum bloco Terraform encontrado na saída da GEM.
+2025-07-05 20:14:57,767 - INFO - Iniciando refinamento dos arquivos para: AWS
+2025-07-05 20:14:57,783 - INFO - Refino AWS (não-destrutivo) concluído. Relatório salvo.
+2025-07-05 20:14:57,783 - INFO - Validação/refino concluído para cloud: AWS.
+2025-07-05 20:14:59,640 - INFO - Variáveis de memória e referências de arquivos limpas.
+2025-07-05 20:16:45,120 - INFO - Fechamento da aplicação solicitado pelo usuário.
+2025-07-05 20:16:45,120 - INFO - Variáveis de memória e referências de arquivos limpas.
+2025-07-05 20:16:49,462 - INFO - Log configurado.
+2025-07-05 20:16:49,462 - INFO - Aplicação iniciada.
+2025-07-05 20:19:59,268 - INFO - Log configurado.
+2025-07-05 20:19:59,268 - INFO - Aplicação iniciada.
+2025-07-05 20:22:08,402 - INFO - Fechamento da aplicação solicitado pelo usuário.
+2025-07-05 20:22:08,402 - INFO - Variáveis de memória e referências de arquivos limpas.
